@@ -1,0 +1,58 @@
+export const projects = [
+  {
+    id: 1,
+    title: "Landingpage",
+    description: "lorem",
+    tech: ["HTML", "CSS", "JS"],
+    url: "https://github.com/RebeckaGamble/landningssida",
+  },
+  {
+    id: 2,
+    title: "Radio station",
+    description: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae quasi dolorum ullam tempora molestiae accusantium eum, distinctio neque, delectus possimus, fugiat voluptate sit similique aspernatur magni recusandae soluta cum non.",
+    tech: ["JS", "React", "Tailwind"],
+    url: "https://github.com/RebeckaGamble/radio_station",
+  },
+  {
+    id: 3,
+    title: "Todolist",
+    description: "lorem..",
+    tech: ["JS", "React", "Tailwind"],
+    url: "https://github.com/RebeckaGamble/todo_list",
+  },
+  {
+    id: 4,
+    title: "Clock",
+    description: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae quasi dolorum ullam tempora molestiae accusantium eum, distinctio neque, delectus possimus, fugiat voluptate sit similique aspernatur magni recusandae soluta cum non.",
+    tech: ["JS", "React", "Tailwind"],
+    url: "https://github.com/RebeckaGamble/clock_timer",
+  },
+  {
+    id: 5,
+    title: "Registration form",
+    description: "lorem..",
+    tech: ["HTML", "CSS", "JS"],
+    url: "https://github.com/RebeckaGamble/registration_form",
+  },
+  {
+    id: 6,
+    title: "Zoom",
+    description: " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae quasi dolorum ullam tempora molestiae accusantium eum, distinctio neque, delectus possimus, fugiat voluptate sit similique aspernatur magni recusandae soluta cum non.",
+    tech: ["HTML", "CSS", "JS"],
+    url: "https://github.com/RebeckaGamble/zoom",
+  },
+  {
+    id: 7,
+    title: "Chas - landingpage",
+    description: "lorem..",
+    tech: ["HTML", "CSS", "JS"],
+    url: "https://github.com/RebeckaGamble/chas_landing_page",
+  },
+  {
+    id: 8,
+    title: "Memory",
+    description: "lorem..",
+    tech: ["HTML", "CSS", "JS"],
+    url: "https://github.com/RebeckaGamble/memory",
+  },
+];

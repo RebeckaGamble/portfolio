@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+@base {
+  .section {
+    @apply w-screen mx-auto bg-yellow-300 md:max-w-[80%] lg:max-w-[50%];
+  }
+}
+
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -31,3 +39,4 @@ body {
     text-wrap: balance;
   }
 }
+*/
